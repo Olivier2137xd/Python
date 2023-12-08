@@ -1,0 +1,7 @@
+a=int(input("Podaj a"))
+b=int(input("Podaj b"))
+if a>b:
+    wynik=(a-b)
+elif a<b:
+    print(a+b)
+print(wynik)

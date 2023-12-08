@@ -1,0 +1,5 @@
+a=int(input("podaj rok urodzenia"))
+if a<=2008:
+    print("Cześć jesteś wyjątkowo dojrzały")
+else:
+    print("Spadaj młody")

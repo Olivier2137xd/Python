@@ -1,0 +1,5 @@
+f=int(input("podaj liczbe"))
+g=int(input("jeszcze jedna"))
+def dodawanie(a,b):
+    return(a+b)
+print(dodawanie(f,g))

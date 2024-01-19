@@ -1,0 +1,15 @@
+j=int(input())
+k=int(input())
+def dodawanie(a,b):
+    return(a+b)
+def odejmowanie(a,b):
+    return(a-b)
+def dzielenie(a,b):
+    return(a/b)
+def mnożenie(a,b):
+    return(a*b)
+print("wyniki to:")
+print(dodawanie(j,k))
+print(odejmowanie(j,k))
+print(mnożenie(j,k))
+print(dzielenie(j,k))

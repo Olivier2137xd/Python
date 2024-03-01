@@ -1,0 +1,3 @@
+C=int(input("podaj temperaturę(C*)"))
+F=print(C*9/5+32)
+

@@ -1,0 +1,4 @@
+r=int(input("podaj promień okręgu"))
+b=float(3.14)
+P=print(b*r*r)
+L=print(2*b*r)
